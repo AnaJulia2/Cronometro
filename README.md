@@ -1,5 +1,4 @@
 # Cronômetro
 
 <p aling="center">
-<img src="https://github.com/AnaJulia2/Cronometro/blob/edit/Images/cronometro.png">
-
+<img src="https://github.com/AnaJulia2/Cronometro/blob/main/Images/cronometro.png">
