@@ -1,1 +1,2 @@
-# Cronometro
+# Cronômetro
+<img src="
